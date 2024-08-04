@@ -1,4 +1,4 @@
-# Mastering Express.js Comprehensive 60-Session Journey from Basics to Advanced with Applied Projects, Databases, and Deployment
+# Mastering Backend Development with Node.js (Express.js): A Comprehensive Journey from Basics to Advanced,  Including Applied Projects, Databases, and Deployment
 
 ### What is Express.js?
 
