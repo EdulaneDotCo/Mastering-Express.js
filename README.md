@@ -66,7 +66,6 @@ This workshop is designed to provide you with comprehensive skills in Express.js
 ## Table of Contents
 
 - [Mastering Express.js Comprehensive 60-Session Journey from Basics to Advanced with Real-Time Projects, Databases, and Deployment](#mastering-expressjs-comprehensive-60-session-journey-from-basics-to-advanced-with-real-time-projects-databases-and-deployment)
-  - [Why Learn Express.js and What Can You Do with It?](#why-learn-expressjs-and-what-can-you-do-with-it)
     - [What is Express.js?](#what-is-expressjs)
     - [Why Learn Express.js?](#why-learn-expressjs)
   - [Who This Workshop Is For](#who-this-workshop-is-for)
