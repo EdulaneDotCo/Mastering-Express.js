@@ -1,4 +1,4 @@
-# Mastering Express.js Comprehensive 60-Session Journey from Basics to Advanced with Real-Time Projects, Databases, and Deployment
+# Mastering Express.js Comprehensive 60-Session Journey from Basics to Advanced with Applied Projects, Databases, and Deployment
 
 ### What is Express.js?
 
