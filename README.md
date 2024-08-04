@@ -171,7 +171,7 @@ This workshop provides an in-depth exploration of Express.js, covering fundament
    1. Introduction to Express.js and its role in web development.
    1. Set up a basic Express.js application.
    1. Explore Express.js features and advantages.
-   1. **Real-Time Project:** Build a simple Express.js server that serves static files.
+   1. **Applied Project:** Build a simple Express.js server that serves static files.
 1. **Best Practices:** Use Express’s built-in functionalities efficiently and keep your code modular.
 1. **Practice Exercises:** Create a basic Express.js application and test its basic functionality.
 1. **LeetCode/HackerRank:** Basic server-side setup problems.
@@ -184,7 +184,7 @@ This workshop provides an in-depth exploration of Express.js, covering fundament
    1. Install Node.js and npm.
    1. Set up a project directory and initialize npm.
    1. Install and configure Express.js and other dependencies.
-   1. **Real-Time Project:** Configure a development environment for a new Express.js project.
+   1. **Applied Project:** Configure a development environment for a new Express.js project.
 1. **Best Practices:** Use version control, manage dependencies effectively, and set up environment configurations.
 1. **Practice Exercises:** Set up and configure a development environment for Express.js.
 1. **LeetCode/HackerRank:** Environment setup challenges.
@@ -197,7 +197,7 @@ This workshop provides an in-depth exploration of Express.js, covering fundament
    1. Understand routing and its role in handling HTTP requests.
    1. Define routes using Express.js and handle different HTTP methods.
    1. Use route parameters and query strings.
-   1. **Real-Time Project:** Create a simple RESTful API with basic routes.
+   1. **Applied Project:** Create a simple RESTful API with basic routes.
 1. **Best Practices:** Keep routes organized, use middleware for route handling, and handle route errors gracefully.
 1. **Practice Exercises:** Define routes for various HTTP methods and test them.
 1. **LeetCode/HackerRank:** Routing challenges.
@@ -210,7 +210,7 @@ This workshop provides an in-depth exploration of Express.js, covering fundament
    1. Introduction to middleware and its types (application, router, error-handling).
    1. Create custom middleware functions.
    1. Use built-in middleware for tasks like parsing request bodies and handling cookies.
-   1. **Real-Time Project:** Implement middleware for logging and request validation.
+   1. **Applied Project:** Implement middleware for logging and request validation.
 1. **Best Practices:** Use middleware effectively for code reuse, maintain modular code, and handle errors properly.
 1. **Practice Exercises:** Write and apply custom middleware functions.
 1. **LeetCode/HackerRank:** Middleware application challenges.
@@ -223,7 +223,7 @@ This workshop provides an in-depth exploration of Express.js, covering fundament
    1. Parse request bodies, handle query parameters, and work with request headers.
    1. Send various types of responses (JSON, HTML, redirects).
    1. Handle different HTTP status codes and error responses.
-   1. **Real-Time Project:** Build an API endpoint that processes and responds to client data.
+   1. **Applied Project:** Build an API endpoint that processes and responds to client data.
 1. **Best Practices:** Ensure data validation, handle errors gracefully, and send appropriate status codes.
 1. **Practice Exercises:** Create endpoints that handle different types of requests and responses.
 1. **LeetCode/HackerRank:** Request and response handling problems.
@@ -236,7 +236,7 @@ This workshop provides an in-depth exploration of Express.js, covering fundament
    1. Implement error-handling middleware.
    1. Use debugging tools and techniques (logging, breakpoints).
    1. Handle common errors and edge cases in Express.js applications.
-   1. **Real-Time Project:** Add error handling and debugging features to your existing application.
+   1. **Applied Project:** Add error handling and debugging features to your existing application.
 1. **Best Practices:** Implement robust error handling, use logging for diagnostics, and manage application exceptions.
 1. **Practice Exercises:** Debug common issues and implement comprehensive error handling.
 1. **LeetCode/HackerRank:** Debugging and error handling exercises.
@@ -249,7 +249,7 @@ This workshop provides an in-depth exploration of Express.js, covering fundament
    1. Understand RESTful principles and design patterns.
    1. Create RESTful endpoints in Express.js.
    1. Use tools like Postman for testing APIs.
-   1. **Real-Time Project:** Build a RESTful API for a simple application.
+   1. **Applied Project:** Build a RESTful API for a simple application.
 1. **Best Practices:** Follow RESTful conventions, handle API versioning, and document your APIs.
 1. **Practice Exercises:** Develop and test RESTful endpoints.
 1. **LeetCode/HackerRank:** RESTful API design challenges.
@@ -262,7 +262,7 @@ This workshop provides an in-depth exploration of Express.js, covering fundament
    1. Set up MongoDB and connect it to your Express.js application.
    1. Perform CRUD operations using Mongoose or the native MongoDB driver.
    1. Design and manage MongoDB schemas.
-   1. **Real-Time Project:** Implement data storage and retrieval using MongoDB in a real-time project.
+   1. **Applied Project:** Implement data storage and retrieval using MongoDB in a real-time project.
 1. **Best Practices:** Use schema validation, handle database connections, and optimize queries.
 1. **Practice Exercises:** Implement CRUD operations and manage MongoDB schemas.
 1. **LeetCode/HackerRank:** MongoDB integration challenges.
@@ -275,7 +275,7 @@ This workshop provides an in-depth exploration of Express.js, covering fundament
    1. Implement CRUD operations for data management.
    1. Handle request validations and responses.
    1. Create endpoints for managing resources.
-   1. **Real-Time Project:** Develop a CRUD application for a specific use case.
+   1. **Applied Project:** Develop a CRUD application for a specific use case.
 1. **Best Practices:** Ensure data validation, manage resource consistency, and handle errors properly.
 1. **Practice Exercises:** Build and test CRUD operations for different resources.
 1. **LeetCode/HackerRank:** CRUD operation exercises.
@@ -290,7 +290,7 @@ This detailed structure for the Beginner Sessions ensures a comprehensive introd
    1. Introduction to unit testing principles and tools (e.g., Mocha, Chai, Jest).
    1. Write unit tests for Express.js routes and middleware.
    1. Run and manage test cases effectively.
-   1. **Real-Time Project:** Develop and execute unit tests for your Express.js application.
+   1. **Applied Project:** Develop and execute unit tests for your Express.js application.
 1. **Best Practices:** Write meaningful test cases, use test-driven development (TDD) practices, and manage test coverage.
 1. **Practice Exercises:** Implement and run unit tests for different parts of your application.
 1. **LeetCode/HackerRank:** Unit testing problems.
@@ -305,7 +305,7 @@ This detailed structure for the Beginner Sessions ensures a comprehensive introd
    1. Implement nested routes and route grouping.
    1. Use dynamic route parameters and query strings effectively.
    1. Manage route middleware and route-specific logic.
-   1. **Real-Time Project:** Develop a multi-level routing system for a feature-rich API.
+   1. **Applied Project:** Develop a multi-level routing system for a feature-rich API.
 1. **Best Practices:** Organize routes logically, use route handlers efficiently, and handle route-specific middleware.
 1. **Practice Exercises:** Implement advanced routing for different application features.
 1. **LeetCode/HackerRank:** Complex routing challenges.
@@ -318,7 +318,7 @@ This detailed structure for the Beginner Sessions ensures a comprehensive introd
    1. Understand authentication strategies (e.g., JWT, OAuth).
    1. Implement user authentication using sessions or tokens.
    1. Manage user roles and permissions for authorization.
-   1. **Real-Time Project:** Add user authentication and role-based access control to your API.
+   1. **Applied Project:** Add user authentication and role-based access control to your API.
 1. **Best Practices:** Ensure secure storage of credentials, use strong authentication methods, and manage session security.
 1. **Practice Exercises:** Implement authentication and authorization in a sample application.
 1. **LeetCode/HackerRank:** Security and authentication problems.
@@ -331,7 +331,7 @@ This detailed structure for the Beginner Sessions ensures a comprehensive introd
    1. Use ES6+ features such as arrow functions, classes, destructuring, and async/await.
    1. Refactor existing code to use modern JavaScript syntax.
    1. Leverage new language features for cleaner and more efficient code.
-   1. **Real-Time Project:** Refactor parts of your application to use ES6+ features.
+   1. **Applied Project:** Refactor parts of your application to use ES6+ features.
 1. **Best Practices:** Utilize ES6+ features to write clean, maintainable code and adopt new language features progressively.
 1. **Practice Exercises:** Refactor codebases using ES6+ syntax and features.
 1. **LeetCode/HackerRank:** ES6+ feature usage problems.
@@ -344,7 +344,7 @@ This detailed structure for the Beginner Sessions ensures a comprehensive introd
    1. Create reusable and composable middleware functions.
    1. Implement conditional middleware execution and error-handling middleware.
    1. Use middleware for security enhancements and request processing.
-   1. **Real-Time Project:** Develop advanced middleware to handle various application needs.
+   1. **Applied Project:** Develop advanced middleware to handle various application needs.
 1. **Best Practices:** Keep middleware modular, handle errors effectively, and use middleware for security and performance improvements.
 1. **Practice Exercises:** Develop and apply advanced middleware patterns to your project.
 1. **LeetCode/HackerRank:** Middleware pattern challenges.
@@ -357,7 +357,7 @@ This detailed structure for the Beginner Sessions ensures a comprehensive introd
    1. Use libraries like Joi or express-validator for data validation.
    1. Implement sanitization to prevent injection attacks and ensure clean data.
    1. Validate and sanitize user input in different routes and endpoints.
-   1. **Real-Time Project:** Add validation and sanitization to form inputs and API requests.
+   1. **Applied Project:** Add validation and sanitization to form inputs and API requests.
 1. **Best Practices:** Validate input data rigorously, sanitize user input, and handle validation errors gracefully.
 1. **Practice Exercises:** Implement validation and sanitization in various parts of your application.
 1. **LeetCode/HackerRank:** Data validation problems.
@@ -370,7 +370,7 @@ This detailed structure for the Beginner Sessions ensures a comprehensive introd
    1. Design and implement RESTful APIs with a focus on scalability and maintainability.
    1. Use tools like Postman or Swagger for API testing and documentation.
    1. Handle API versioning and backward compatibility.
-   1. **Real-Time Project:** Build and document a comprehensive RESTful API for a specific use case.
+   1. **Applied Project:** Build and document a comprehensive RESTful API for a specific use case.
 1. **Best Practices:** Follow RESTful design principles, document APIs thoroughly, and ensure versioning and backward compatibility.
 1. **Practice Exercises:** Build and test various RESTful API endpoints.
 1. **LeetCode/HackerRank:** API design and consumption challenges.
@@ -383,7 +383,7 @@ This detailed structure for the Beginner Sessions ensures a comprehensive introd
    1. Set up MySQL and PostgreSQL databases and connect them to your Express.js application.
    1. Perform CRUD operations and manage database schemas.
    1. Use ORMs like Sequelize or TypeORM for database interaction.
-   1. **Real-Time Project:** Implement database integration and management for a multi-database application.
+   1. **Applied Project:** Implement database integration and management for a multi-database application.
 1. **Best Practices:** Use database connection pooling, manage schema migrations, and optimize queries.
 1. **Practice Exercises:** Implement CRUD operations and manage schemas for MySQL and PostgreSQL.
 1. **LeetCode/HackerRank:** Database integration challenges.
@@ -396,7 +396,7 @@ This detailed structure for the Beginner Sessions ensures a comprehensive introd
    1. Understand SSR concepts and benefits.
    1. Implement SSR with Express.js and integrate with a front-end framework (e.g., React).
    1. Handle data fetching and rendering on the server.
-   1. **Real-Time Project:** Develop a server-side rendered application with Express.js and React.
+   1. **Applied Project:** Develop a server-side rendered application with Express.js and React.
 1. **Best Practices:** Optimize server-side rendering performance, manage data fetching efficiently, and improve SEO.
 1. **Practice Exercises:** Implement and test SSR for a sample application.
 1. **LeetCode/HackerRank:** SSR implementation challenges.
@@ -409,7 +409,7 @@ This detailed structure for the Beginner Sessions ensures a comprehensive introd
    1. Set up TypeScript in an Express.js project.
    1. Define and use TypeScript types and interfaces in your application.
    1. Implement type checking and compile-time error checking.
-   1. **Real-Time Project:** Refactor an existing Express.js application to use TypeScript.
+   1. **Applied Project:** Refactor an existing Express.js application to use TypeScript.
 1. **Best Practices:** Use TypeScript to improve code reliability, manage types effectively, and handle compilation errors.
 1. **Practice Exercises:** Refactor codebases to TypeScript and implement type checking.
 1. **LeetCode/HackerRank:** TypeScript and type checking problems.
@@ -422,7 +422,7 @@ This detailed structure for the Beginner Sessions ensures a comprehensive introd
    1. Implement advanced error-handling strategies and custom error classes.
    1. Set up logging with tools like Winston or Morgan.
    1. Monitor and analyze application logs for debugging and performance improvements.
-   1. **Real-Time Project:** Add advanced error handling and logging to an existing Express.js application.
+   1. **Applied Project:** Add advanced error handling and logging to an existing Express.js application.
 1. **Best Practices:** Implement comprehensive error handling, use structured logging, and monitor application performance.
 1. **Practice Exercises:** Develop and test error handling and logging mechanisms.
 1. **LeetCode/HackerRank:** Logging and error handling challenges.
@@ -439,7 +439,7 @@ These detailed intermediate sessions build upon the foundational knowledge from 
    1. Introduction to serverless computing and its benefits.
    1. Create a serverless function using Express.js.
    1. Deploy to cloud platforms such as AWS Lambda or Azure Functions.
-   1. **Real-Time Project:** Convert a traditional Express.js application to a serverless application.
+   1. **Applied Project:** Convert a traditional Express.js application to a serverless application.
 1. **Best Practices:** Design serverless applications for cost efficiency and scalability, manage cold starts, and handle state management.
 1. **Practice Exercises:** Develop and deploy a simple serverless function, test its performance.
 1. **LeetCode/HackerRank:** Serverless architecture challenges.
@@ -452,7 +452,7 @@ These detailed intermediate sessions build upon the foundational knowledge from 
    1. Explore different API versioning strategies (URI versioning, header versioning).
    1. Use tools like Swagger/OpenAPI for API documentation.
    1. Document and version an existing API.
-   1. **Real-Time Project:** Add versioning and documentation to an existing API.
+   1. **Applied Project:** Add versioning and documentation to an existing API.
 1. **Best Practices:** Ensure backward compatibility, keep documentation updated, and provide clear API usage examples.
 1. **Practice Exercises:** Implement API versioning and create API documentation.
 1. **LeetCode/HackerRank:** API versioning and documentation problems.
@@ -465,7 +465,7 @@ These detailed intermediate sessions build upon the foundational knowledge from 
    1. Integrate third-party APIs into your application.
    1. Handle authentication and manage API keys.
    1. Process and use API responses effectively.
-   1. **Real-Time Project:** Integrate one or more third-party APIs into a real-time project.
+   1. **Applied Project:** Integrate one or more third-party APIs into a real-time project.
 1. **Best Practices:** Ensure secure API integrations, handle rate limits, and manage error responses.
 1. **Practice Exercises:** Implement and test integrations with various third-party APIs.
 1. **LeetCode/HackerRank:** API integration challenges.
@@ -478,7 +478,7 @@ These detailed intermediate sessions build upon the foundational knowledge from 
    1. Understand microservices principles and patterns.
    1. Break down a monolithic application into microservices.
    1. Implement inter-service communication using REST or messaging systems.
-   1. **Real-Time Project:** Build and deploy a microservices-based application.
+   1. **Applied Project:** Build and deploy a microservices-based application.
 1. **Best Practices:** Use service discovery, handle service communication and reliability, and manage data consistency.
 1. **Practice Exercises:** Create and deploy multiple microservices.
 1. **LeetCode/HackerRank:** Microservices architecture problems.
@@ -491,7 +491,7 @@ These detailed intermediate sessions build upon the foundational knowledge from 
    1. Introduction to WebSockets and real-time communication.
    1. Integrate WebSocket libraries with Express.js.
    1. Implement features like chat, live notifications, and real-time data updates.
-   1. **Real-Time Project:** Add real-time features to your application, such as live chat or notifications.
+   1. **Applied Project:** Add real-time features to your application, such as live chat or notifications.
 1. **Best Practices:** Optimize WebSocket performance, manage connections, and handle real-time data efficiently.
 1. **Practice Exercises:** Implement and test real-time features using WebSockets.
 1. **LeetCode/HackerRank:** Real-time communication problems.
@@ -504,7 +504,7 @@ These detailed intermediate sessions build upon the foundational knowledge from 
    1. Analyze application performance using profiling tools.
    1. Implement optimizations for code, queries, and infrastructure.
    1. Set up monitoring tools and dashboards.
-   1. **Real-Time Project:** Apply performance optimizations and monitoring to an existing application.
+   1. **Applied Project:** Apply performance optimizations and monitoring to an existing application.
 1. **Best Practices:** Use caching, optimize database queries, and monitor application metrics.
 1. **Practice Exercises:** Optimize application performance and configure monitoring tools.
 1. **LeetCode/HackerRank:** Performance optimization challenges.
@@ -517,7 +517,7 @@ These detailed intermediate sessions build upon the foundational knowledge from 
    1. Configure deployment settings and manage environment variables.
    1. Prepare build and deployment scripts.
    1. Set up continuous integration/continuous deployment (CI/CD) pipelines.
-   1. **Real-Time Project:** Prepare your application for deployment, including configuration and testing.
+   1. **Applied Project:** Prepare your application for deployment, including configuration and testing.
 1. **Best Practices:** Ensure security, manage configurations, and streamline deployment processes.
 1. **Practice Exercises:** Configure deployment settings and test deployment scripts.
 1. **LeetCode/HackerRank:** Deployment preparation exercises.
@@ -530,7 +530,7 @@ These detailed intermediate sessions build upon the foundational knowledge from 
    1. Deploy your application using platforms like Heroku, AWS, or DigitalOcean.
    1. Manage deployment pipelines and handle deployment errors.
    1. Validate deployment and perform post-deployment checks.
-   1. **Real-Time Project:** Deploy a real-time application to a production environment.
+   1. **Applied Project:** Deploy a real-time application to a production environment.
 1. **Best Practices:** Monitor the deployment process, manage rollback strategies, and validate production readiness.
 1. **Practice Exercises:** Deploy applications and verify their functionality in production.
 1. **LeetCode/HackerRank:** Production deployment challenges.
@@ -543,7 +543,7 @@ These detailed intermediate sessions build upon the foundational knowledge from 
    1. Set up monitoring tools and dashboards.
    1. Handle incidents and perform routine maintenance tasks.
    1. Analyze application logs and performance metrics.
-   1. **Real-Time Project:** Implement and manage monitoring and maintenance strategies for a deployed application.
+   1. **Applied Project:** Implement and manage monitoring and maintenance strategies for a deployed application.
 1. **Best Practices:** Use monitoring tools effectively, respond to issues promptly, and conduct regular maintenance.
 1. **Practice Exercises:** Monitor application health and perform maintenance tasks.
 1. **LeetCode/HackerRank:** Post-deployment monitoring and maintenance problems.
@@ -556,7 +556,7 @@ These detailed intermediate sessions build upon the foundational knowledge from 
    1. Set up SQLite and configure it with Express.js.
    1. Perform database operations and integrate SQLite with your application.
    1. Manage SQLite-specific constraints and optimizations.
-   1. **Real-Time Project:** Implement SQLite for data storage in a real-time project.
+   1. **Applied Project:** Implement SQLite for data storage in a real-time project.
 1. **Best Practices:** Use SQLite for appropriate scenarios, handle database constraints, and optimize queries.
 1. **Practice Exercises:** Integrate SQLite and perform CRUD operations.
 1. **LeetCode/HackerRank:** SQLite-related challenges.
@@ -571,7 +571,7 @@ These detailed intermediate sessions build upon the foundational knowledge from 
    1. Define project scope, objectives, and requirements.
    1. Set up version control with Git and project structure.
    1. Configure development tools and environment.
-   1. **Real-Time Project:** Initiate a new project, including setting up the repository, project files, and basic configurations.
+   1. **Applied Project:** Initiate a new project, including setting up the repository, project files, and basic configurations.
 1. **Best Practices:** Document project requirements, set up a clear project structure, and configure tools and environments for collaboration.
 1. **Practice Exercises:** Create a detailed project plan and set up the initial project repository.
 1. **LeetCode/HackerRank:** Project planning and setup problems.
@@ -584,7 +584,7 @@ These detailed intermediate sessions build upon the foundational knowledge from 
    1. Design and implement API endpoints based on project requirements.
    1. Set up controllers, routes, and middleware.
    1. Integrate with databases (e.g., MongoDB, MySQL, PostgreSQL).
-   1. **Real-Time Project:** Build the API backend for a feature-rich application, including CRUD operations and business logic.
+   1. **Applied Project:** Build the API backend for a feature-rich application, including CRUD operations and business logic.
 1. **Best Practices:** Structure API endpoints logically, implement error handling, and ensure scalability.
 1. **Practice Exercises:** Develop and test various API endpoints.
 1. **LeetCode/HackerRank:** API design and implementation problems.
@@ -597,7 +597,7 @@ These detailed intermediate sessions build upon the foundational knowledge from 
    1. Implement user authentication (e.g., JWT, OAuth).
    1. Set up role-based authorization and manage permissions.
    1. Secure API routes and user data.
-   1. **Real-Time Project:** Add authentication and authorization to the API backend and protect sensitive endpoints.
+   1. **Applied Project:** Add authentication and authorization to the API backend and protect sensitive endpoints.
 1. **Best Practices:** Secure authentication flows, manage session tokens, and handle permissions effectively.
 1. **Practice Exercises:** Implement and test authentication and authorization features.
 1. **LeetCode/HackerRank:** Security and authentication challenges.
@@ -610,7 +610,7 @@ These detailed intermediate sessions build upon the foundational knowledge from 
    1. Design and implement UI components using frameworks like React or Vue.js.
    1. Connect the UI with the backend API for dynamic data rendering.
    1. Implement responsive design and user interactions.
-   1. **Real-Time Project:** Build and style the user interface for your application, integrating with the API.
+   1. **Applied Project:** Build and style the user interface for your application, integrating with the API.
 1. **Best Practices:** Follow UI/UX principles, ensure responsive design, and optimize for performance.
 1. **Practice Exercises:** Create and style UI components, and integrate with backend services.
 1. **LeetCode/HackerRank:** UI/UX design challenges.
@@ -623,7 +623,7 @@ These detailed intermediate sessions build upon the foundational knowledge from 
    1. Implement WebSocket or Socket.io for real-time communication.
    1. Integrate real-time updates and notifications into your application.
    1. Manage state and data synchronization in real-time.
-   1. **Real-Time Project:** Add chat, notifications, or live data updates to your application.
+   1. **Applied Project:** Add chat, notifications, or live data updates to your application.
 1. **Best Practices:** Ensure reliable real-time communication, manage data synchronization, and handle real-time events efficiently.
 1. **Practice Exercises:** Develop and test real-time features and integrations.
 1. **LeetCode/HackerRank:** Real-time communication challenges.
@@ -636,7 +636,7 @@ These detailed intermediate sessions build upon the foundational knowledge from 
    1. Perform unit testing, integration testing, and end-to-end testing.
    1. Debug and resolve issues using tools and techniques.
    1. Set up test coverage and continuous integration.
-   1. **Real-Time Project:** Test and debug various components of your project to ensure reliability and performance.
+   1. **Applied Project:** Test and debug various components of your project to ensure reliability and performance.
 1. **Best Practices:** Write effective tests, use debugging tools, and maintain high test coverage.
 1. **Practice Exercises:** Develop and execute test cases, and debug identified issues.
 1. **LeetCode/HackerRank:** Testing and debugging problems.
@@ -649,7 +649,7 @@ These detailed intermediate sessions build upon the foundational knowledge from 
    1. Identify performance bottlenecks using profiling tools.
    1. Optimize code, database queries, and server configurations.
    1. Implement caching strategies and load balancing.
-   1. **Real-Time Project:** Analyze and optimize the performance of your project for better speed and scalability.
+   1. **Applied Project:** Analyze and optimize the performance of your project for better speed and scalability.
 1. **Best Practices:** Use performance profiling tools, optimize resource usage, and apply caching and load balancing.
 1. **Practice Exercises:** Optimize various aspects of your project and test performance improvements.
 1. **LeetCode/HackerRank:** Performance optimization challenges.
@@ -662,7 +662,7 @@ These detailed intermediate sessions build upon the foundational knowledge from 
    1. Set up deployment configurations and scripts.
    1. Prepare the application for various environments (e.g., staging, production).
    1. Ensure environment variables and secrets are managed securely.
-   1. **Real-Time Project:** Finalize deployment preparations, including configuration and environment setup.
+   1. **Applied Project:** Finalize deployment preparations, including configuration and environment setup.
 1. **Best Practices:** Use deployment tools and scripts, manage environment variables securely, and prepare for different environments.
 1. **Practice Exercises:** Configure deployment settings and prepare the application for deployment.
 1. **LeetCode/HackerRank:** Deployment preparation challenges.
@@ -675,7 +675,7 @@ These detailed intermediate sessions build upon the foundational knowledge from 
    1. Use deployment platforms (e.g., AWS, Heroku) to deploy your application.
    1. Monitor the deployment process and resolve any issues.
    1. Ensure the application is fully operational and performs as expected.
-   1. **Real-Time Project:** Deploy your project to a production environment and ensure its stability.
+   1. **Applied Project:** Deploy your project to a production environment and ensure its stability.
 1. **Best Practices:** Follow deployment best practices, monitor deployment processes, and ensure application stability.
 1. **Practice Exercises:** Deploy your project to a live environment and verify its functionality.
 1. **LeetCode/HackerRank:** Deployment challenges.
@@ -688,7 +688,7 @@ These detailed intermediate sessions build upon the foundational knowledge from 
    1. Set up monitoring and logging for post-deployment analysis.
    1. Handle bug reports, performance issues, and user feedback.
    1. Plan and execute maintenance tasks and updates.
-   1. **Real-Time Project:** Implement monitoring and maintenance processes for your deployed application.
+   1. **Applied Project:** Implement monitoring and maintenance processes for your deployed application.
 1. **Best Practices:** Use monitoring tools, address issues promptly, and perform regular maintenance and updates.
 1. **Practice Exercises:** Set up monitoring and handle maintenance tasks for your project.
 1. **LeetCode/HackerRank:** Post-deployment monitoring challenges.
@@ -705,7 +705,7 @@ This detailed outline for the real-time projects focuses on developing and deplo
    1. Dive into features like async/await, generators, and destructuring.
    1. Understand and implement advanced array and object manipulation techniques.
    1. Explore new modules and class syntax enhancements.
-   1. **Real-Time Project:** Refactor existing code using advanced ES6+ features to improve readability and performance.
+   1. **Applied Project:** Refactor existing code using advanced ES6+ features to improve readability and performance.
 1. **Best Practices:** Use modern syntax for cleaner code, avoid common pitfalls, and leverage new language features effectively.
 1. **Practice Exercises:** Refactor code snippets to use advanced ES6+ features.
 1. **LeetCode/HackerRank:** Problems focusing on modern JavaScript features.
@@ -718,7 +718,7 @@ This detailed outline for the real-time projects focuses on developing and deplo
    1. Explore security best practices such as input validation and sanitization.
    1. Implement secure authentication and authorization mechanisms.
    1. Protect against common security threats (e.g., XSS, CSRF).
-   1. **Real-Time Project:** Integrate security enhancements into your project to protect user data and prevent attacks.
+   1. **Applied Project:** Integrate security enhancements into your project to protect user data and prevent attacks.
 1. **Best Practices:** Apply security measures throughout development, use secure libraries, and regularly update dependencies.
 1. **Practice Exercises:** Implement and test various security measures.
 1. **LeetCode/HackerRank:** Security-focused coding problems.
@@ -731,7 +731,7 @@ This detailed outline for the real-time projects focuses on developing and deplo
    1. Establish coding guidelines and style guides.
    1. Implement code reviews and pair programming practices.
    1. Use tools and techniques to ensure code quality (e.g., linters, formatters).
-   1. **Real-Time Project:** Apply coding standards and perform code reviews on the project.
+   1. **Applied Project:** Apply coding standards and perform code reviews on the project.
 1. **Best Practices:** Follow coding conventions, use automated tools for quality checks, and foster a collaborative coding culture.
 1. **Practice Exercises:** Review and refactor code to adhere to best practices.
 1. **LeetCode/HackerRank:** Code quality improvement challenges.
@@ -744,7 +744,7 @@ This detailed outline for the real-time projects focuses on developing and deplo
    1. Configure ESLint for your project and set up rules.
    1. Integrate ESLint into the development workflow (e.g., pre-commit hooks).
    1. Resolve common linting issues and customize rules as needed.
-   1. **Real-Time Project:** Set up and configure ESLint for your project, and address linting issues.
+   1. **Applied Project:** Set up and configure ESLint for your project, and address linting issues.
 1. **Best Practices:** Configure ESLint rules to match project requirements, use consistent formatting, and integrate linting into CI/CD pipelines.
 1. **Practice Exercises:** Configure and resolve ESLint issues in your project.
 1. **LeetCode/HackerRank:** Linting and code quality challenges.
@@ -757,7 +757,7 @@ This detailed outline for the real-time projects focuses on developing and deplo
   - Implement unit tests, integration tests, and end-to-end tests.
   - Use testing frameworks and tools (e.g., Jest, Mocha).
   - Set up test coverage and continuous integration for automated testing.
-  - **Real-Time Project:** Develop and execute a comprehensive test suite for your project.
+  - **Applied Project:** Develop and execute a comprehensive test suite for your project.
 - **Best Practices:** Write meaningful tests, ensure high test coverage, and automate testing in the CI/CD pipeline.
 - **Practice Exercises:** Create and run various types of tests for your project.
 - **LeetCode/HackerRank:** Testing strategy and implementation challenges.
@@ -770,7 +770,7 @@ This detailed outline for the real-time projects focuses on developing and deplo
    1. Understand scalability concepts and strategies (e.g., horizontal scaling, load balancing).
    1. Implement scalable architecture and microservices.
    1. Optimize database and server performance.
-   1. **Real-Time Project:** Refactor your project to support scalability and handle increased load.
+   1. **Applied Project:** Refactor your project to support scalability and handle increased load.
 1. **Best Practices:** Use scalable design patterns, optimize performance, and monitor application health.
 1. **Practice Exercises:** Implement scalability features and test performance.
 1. **LeetCode/HackerRank:** Scalability and optimization challenges.
@@ -783,7 +783,7 @@ This detailed outline for the real-time projects focuses on developing and deplo
    1. Explore state management libraries and patterns (e.g., Redux, Context API).
    1. Manage state across components and handle complex state interactions.
    1. Optimize state management for performance and scalability.
-   1. **Real-Time Project:** Integrate and manage application state in your project using appropriate tools.
+   1. **Applied Project:** Integrate and manage application state in your project using appropriate tools.
 1. **Best Practices:** Choose the right state management strategy, avoid state-related bugs, and optimize state updates.
 1. **Practice Exercises:** Implement and manage state in various components of your project.
 1. **LeetCode/HackerRank:** State management challenges.
@@ -796,7 +796,7 @@ This detailed outline for the real-time projects focuses on developing and deplo
    1. Set up CI/CD pipelines using tools like Jenkins, GitHub Actions, or GitLab CI.
    1. Automate build, test, and deployment workflows.
    1. Monitor and optimize CI/CD processes for efficiency.
-   1. **Real-Time Project:** Configure and use CI/CD pipelines for your project.
+   1. **Applied Project:** Configure and use CI/CD pipelines for your project.
 1. **Best Practices:** Automate testing and deployment, monitor pipeline performance, and handle failures effectively.
 1. **Practice Exercises:** Set up and manage CI/CD pipelines for your project.
 1. **LeetCode/HackerRank:** CI/CD implementation challenges.
@@ -809,7 +809,7 @@ This detailed outline for the real-time projects focuses on developing and deplo
    1. Integrate with front-end frameworks (e.g., React, Angular) for full-stack development.
    1. Use third-party libraries and services to extend functionality.
    1. Handle integration challenges and optimize performance.
-   1. **Real-Time Project:** Integrate your Express.js application with a front-end framework and external services.
+   1. **Applied Project:** Integrate your Express.js application with a front-end framework and external services.
 1. **Best Practices:** Manage integrations effectively, ensure compatibility, and optimize performance.
 1. **Practice Exercises:** Implement integrations with various frameworks and services.
 1. **LeetCode/HackerRank:** Integration challenges.
@@ -822,7 +822,7 @@ This detailed outline for the real-time projects focuses on developing and deplo
    1. Set up monitoring tools and dashboards (e.g., New Relic, Grafana).
    1. Analyze performance metrics and logs.
    1. Optimize application based on monitoring insights.
-   1. **Real-Time Project:** Implement monitoring for your application and perform optimization based on collected data.
+   1. **Applied Project:** Implement monitoring for your application and perform optimization based on collected data.
 1. **Best Practices:** Use monitoring tools effectively, analyze data for performance improvements, and address issues promptly.
 1. **Practice Exercises:** Set up and use monitoring tools, and perform optimization tasks.
 1. **LeetCode/HackerRank:** Performance monitoring and optimization problems.
@@ -839,7 +839,7 @@ This detailed outline for sessions 41 to 50 focuses on advanced techniques and b
    1. Break down typical job descriptions for Express.js developers.
    1. Identify essential skills, technologies, and experience levels.
    1. Match your skills and experiences with job requirements.
-   1. **Real-Time Project:** Review and analyze real job descriptions from job boards and tailor your resume accordingly.
+   1. **Applied Project:** Review and analyze real job descriptions from job boards and tailor your resume accordingly.
 1. **Best Practices:** Focus on keywords, highlight relevant experience, and customize your resume for each job application.
 1. **Practice Exercises:** Analyze multiple job descriptions and create a checklist of required skills and qualifications.
 1. **LeetCode/HackerRank:** No direct coding challenge; focus on understanding job requirements.
@@ -852,7 +852,7 @@ This detailed outline for sessions 41 to 50 focuses on advanced techniques and b
    1. Structure your resume for maximum impact.
    1. Include relevant projects, skills, and achievements.
    1. Use action verbs and quantify results where possible.
-   1. **Real-Time Project:** Create or update your resume based on the job descriptions reviewed in Session 51.
+   1. **Applied Project:** Create or update your resume based on the job descriptions reviewed in Session 51.
 1. **Best Practices:** Tailor your resume for specific roles, keep it concise and error-free, and use a professional format.
 1. **Practice Exercises:** Revise and format your resume for different job applications.
 1. **LeetCode/HackerRank:** No direct coding challenge; focus on resume crafting.
@@ -865,7 +865,7 @@ This detailed outline for sessions 41 to 50 focuses on advanced techniques and b
    1. Understand common technical interview formats and types of questions.
    1. Practice problem-solving and coding questions.
    1. Review data structures and algorithms commonly tested.
-   1. **Real-Time Project:** Prepare answers for common technical questions and solve sample problems.
+   1. **Applied Project:** Prepare answers for common technical questions and solve sample problems.
 1. **Best Practices:** Practice coding problems, understand problem-solving techniques, and review technical concepts.
 1. **Practice Exercises:** Complete coding problems and mock interview questions.
 1. **LeetCode/HackerRank:** Solve a range of technical interview problems.
@@ -878,7 +878,7 @@ This detailed outline for sessions 41 to 50 focuses on advanced techniques and b
    1. Engage in simulated technical and behavioral interviews.
    1. Receive constructive feedback from peers or mentors.
    1. Identify areas for improvement and practice accordingly.
-   1. **Real-Time Project:** Conduct mock interviews with peers or mentors and revise based on feedback.
+   1. **Applied Project:** Conduct mock interviews with peers or mentors and revise based on feedback.
 1. **Best Practices:** Prepare thoroughly, practice under timed conditions, and use feedback to improve.
 1. **Practice Exercises:** Participate in multiple mock interviews and review feedback.
 1. **LeetCode/HackerRank:** No direct coding challenge; focus on interview practice.
@@ -891,7 +891,7 @@ This detailed outline for sessions 41 to 50 focuses on advanced techniques and b
    1. Set career goals and identify desired job roles.
    1. Research companies and job markets.
    1. Create a job search strategy and set milestones.
-   1. **Real-Time Project:** Develop a career plan outlining your goals, target roles, and job search strategies.
+   1. **Applied Project:** Develop a career plan outlining your goals, target roles, and job search strategies.
 1. **Best Practices:** Set clear goals, research job markets, and create actionable steps to achieve your career objectives.
 1. **Practice Exercises:** Create a detailed career plan and job search strategy.
 1. **LeetCode/HackerRank:** No direct coding challenge; focus on career planning.
@@ -904,7 +904,7 @@ This detailed outline for sessions 41 to 50 focuses on advanced techniques and b
    1. Define your unique value proposition and strengths.
    1. Create an online presence through social media and professional networks.
    1. Develop a personal website or portfolio.
-   1. **Real-Time Project:** Build or enhance your personal brand using online platforms and professional profiles.
+   1. **Applied Project:** Build or enhance your personal brand using online platforms and professional profiles.
 1. **Best Practices:** Maintain a consistent personal brand, engage with industry communities, and showcase your work.
 1. **Practice Exercises:** Create or update your personal website, LinkedIn profile, and other professional platforms.
 1. **LeetCode/HackerRank:** No direct coding challenge; focus on personal branding.
@@ -917,7 +917,7 @@ This detailed outline for sessions 41 to 50 focuses on advanced techniques and b
    1. Utilize networking platforms like LinkedIn and industry events.
    1. Develop a networking strategy and engage with professionals.
    1. Use job boards and company websites to find job openings.
-   1. **Real-Time Project:** Network with industry professionals and apply to job openings.
+   1. **Applied Project:** Network with industry professionals and apply to job openings.
 1. **Best Practices:** Build and maintain professional relationships, actively participate in industry events, and use multiple job search channels.
 1. **Practice Exercises:** Reach out to professionals, attend virtual events, and apply to jobs.
 1. **LeetCode/HackerRank:** No direct coding challenge; focus on networking and job searching.
@@ -930,7 +930,7 @@ This detailed outline for sessions 41 to 50 focuses on advanced techniques and b
    1. Understand the components of a job offer (e.g., salary, benefits, work conditions).
    1. Practice negotiation strategies and techniques.
    1. Evaluate and compare multiple offers.
-   1. **Real-Time Project:** Role-play negotiation scenarios and analyze sample offers.
+   1. **Applied Project:** Role-play negotiation scenarios and analyze sample offers.
 1. **Best Practices:** Research market rates, prepare negotiation points, and communicate effectively.
 1. **Practice Exercises:** Simulate negotiation scenarios and evaluate offers.
 1. **LeetCode/HackerRank:** No direct coding challenge; focus on negotiation skills.
@@ -943,7 +943,7 @@ This detailed outline for sessions 41 to 50 focuses on advanced techniques and b
    1. Understand the expectations and responsibilities of a developer role.
    1. Develop strategies for onboarding and adapting to a new environment.
    1. Build relationships with new team members and stakeholders.
-   1. **Real-Time Project:** Create a transition plan and engage in onboarding activities.
+   1. **Applied Project:** Create a transition plan and engage in onboarding activities.
 1. **Best Practices:** Learn company culture, seek mentorship, and set clear goals for the transition.
 1. **Practice Exercises:** Develop a transition plan and participate in onboarding activities.
 1. **LeetCode/HackerRank:** No direct coding challenge; focus on transition planning.
@@ -956,7 +956,7 @@ This detailed outline for sessions 41 to 50 focuses on advanced techniques and b
    1. Set long-term career goals and identify growth opportunities.
    1. Pursue continuous learning and professional development.
    1. Plan for career advancement and skill enhancement.
-   1. **Real-Time Project:** Develop a long-term career development plan and set actionable milestones.
+   1. **Applied Project:** Develop a long-term career development plan and set actionable milestones.
 1. **Best Practices:** Continuously update skills, seek new challenges, and engage in professional development.
 1. **Practice Exercises:** Create a career development plan with clear goals and action steps.
 1. **LeetCode/HackerRank:** No direct coding challenge; focus on career development.
