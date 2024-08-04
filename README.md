@@ -77,7 +77,7 @@ This workshop is designed to provide you with comprehensive skills in Express.js
   - [Prerequisites](#prerequisites)
   - [Workshop Goals](#workshop-goals)
   - [Beginner Sessions (Sessions 1-10)](#beginner-sessions-sessions-1-10)
-    - [Session 1: Introduction to Express.js\*\*](#session-1-introduction-to-expressjs)
+    - [Session 1: Introduction to Express.js](#session-1-introduction-to-expressjs)
     - [Session 2: Setting Up Your Development Environment](#session-2-setting-up-your-development-environment)
     - [Session 3: Basics of Routing](#session-3-basics-of-routing)
     - [Session 4: Middleware Basics](#session-4-middleware-basics)
@@ -164,7 +164,7 @@ This workshop provides an in-depth exploration of Express.js, covering fundament
 
 ## Beginner Sessions (Sessions 1-10)
 
-### Session 1: Introduction to Express.js**
+### Session 1: Introduction to Express.js
 
 1. **Overview:** Begin with the fundamentals of Express.js, a popular web framework for Node.js. Understand its core features and architecture.
 1. **Session Preview:** 
